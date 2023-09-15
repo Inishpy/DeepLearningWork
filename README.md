@@ -1,2 +1,2 @@
 # ML-and-DL-Project-works
-Some machine learning and Deeep Learning projects
+Some machine learning, Deeep Learning, Data related projects
